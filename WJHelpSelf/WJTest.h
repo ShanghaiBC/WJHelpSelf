@@ -10,6 +10,6 @@
 
 @interface WJTest : NSObject
 
-- (void)eatRice;
+- (void)eat;
 
 @end

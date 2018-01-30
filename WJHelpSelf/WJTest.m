@@ -10,9 +10,9 @@
 
 @implementation WJTest
 
-- (void)eatRice{
+- (void)eat{
     
-    NSLog(@"吃米饭");
+    NSLog(@"吃吃吃吃吃");
 }
 
 @end
